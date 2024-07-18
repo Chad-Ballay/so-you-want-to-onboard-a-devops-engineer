@@ -39,6 +39,7 @@
     * [Ansible --syntax-check](https://raymii.org/s/tutorials/Ansible_-_Playbook_Testing.html)
     * [cfg_nag](https://github.com/stelligent/cfn_nag)
     * [terratest](https://github.com/gruntwork-io/terratest)
+    * [tflint](https://github.com/terraform-linters/tflint)
 * Add or invite individual to any relevant [Slack](https://slack.com/), [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) or [Microsoft Teams](https://products.office.com/en-us/microsoft-teams/group-chat-software) channels or Mailing lists.
 * Provide information regarding relevant processes e.g.
   * Incident, problem and change management
